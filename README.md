@@ -8,3 +8,4 @@ https://github.com/vikaleks/DB/blob/main/lab4.md
 ### Лаба 5
 https://github.com/vikaleks/DB/blob/main/lab5.md
 ### Лаба 6
+https://github.com/vikaleks/DB/blob/main/lab6.md
